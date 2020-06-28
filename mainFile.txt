@@ -7,3 +7,6 @@ holis
 
 probando:
 git diff
+
+ahora:
+git diff --staged

@@ -277,4 +277,5 @@ TSWLatexianTemp*
 
 
 #This were added by me for text it
-kkita/**/*.a
+TODO/*.b
+*.c
