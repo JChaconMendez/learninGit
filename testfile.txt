@@ -1,0 +1,10 @@
+Agregué este documento para hacer pruebas
+Hasta aquí el texto para el primer commit
+
+Aquí una linea para el segundo commit
+<<<<<<< HEAD
+
+Linea para hacer un nuevo tag
+=======
+aded to create an annotated tag
+>>>>>>> 44e4189a46c21ad764882d87faf2d325ed1513c1
