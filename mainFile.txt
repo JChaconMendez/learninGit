@@ -1,0 +1,12 @@
+Le agregué ésta linea así bien mamalona
+bueno, todo éste párrafo
+incluyendo ésto
+
+probando:
+git diff
+
+ahora:
+git diff --staged
+
+
+Agruegue esta linea

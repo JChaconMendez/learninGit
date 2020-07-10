@@ -274,3 +274,8 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+
+#This were added by me for text it
+TODO/*.b
+*.c
